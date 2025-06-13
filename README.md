@@ -1,17 +1,30 @@
-<h1 align="center">Hi 👋, I'm Kemal Musab Dayioglu</h1>
-<h3 align="center">A passionate Python developer from Turkey</h3>
+# Hi there, I'm kemda2 👋
 
-- 💬 Ask me about **Anything you want.**
+**Quality Engineer** aspiring to become a **Data Scientist**  
 
-- 📫 How to reach me **musabdayioglu@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kemda2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kemda2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kemda2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemda2" height="30" width="40" /></a>
-<a href="https://kaggle.com/kemalmusabdayioglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kemalmusabdayioglu" height="30" width="40" /></a>
-<a href="https://instagram.com/kemda2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kemda2" height="30" width="40" /></a>
-</p>
+### 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🧑‍🔬 **Profession:** Currently a Quality Engineer, making the leap into Data Science
+- 🐍 **Skills:** Python, Data Analysis
+- 🌱 **Learning:** Exploring the world of data science, machine learning, and AI
+- 💼 **Looking to Collaborate:** On data-centric projects and open-source opportunities
+- 🔭 **Projects:** Stay tuned—I'll be showcasing my favorite work here soon!
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR-TWITTER-HANDLE)
+
+---
+
+### ✨ Fun Fact
+
+_"The best way to predict the future is to invent it." – Alan Kay_
+
+---
+
+Thanks for visiting my profile! 🚀
