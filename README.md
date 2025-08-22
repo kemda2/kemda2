@@ -99,12 +99,6 @@
 
 ### 🏅 Certifications
 
-* **Kaggle Intro to Programming Certificate**
-  *Issued by Kaggle* — *Jun 2024*
-  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intro-to-programming)
-
----
-
 * **Kaggle Intro to Deep Learning Certificate**
   *Issued by Kaggle* — *Jul 2024*
   [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intro-to-deep-learning)
