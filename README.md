@@ -195,8 +195,9 @@
   *Issued by Kaggle* — *Oct 2023*
   [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/python)
 
-
 ---
+
+> Not finished yet
 
 * **Google Data Analytics Professional Certificate**
   *Issued by Coursera / Google* — *Aug 2024*
