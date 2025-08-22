@@ -99,9 +99,9 @@
 
 ### 🏅 Certifications
 
-* **freeCodeCamp Scientific Computing with Python Certification**
+* **freeCodeCamp Data Analysis with Python Certification**
   *Issued by freeCodeCamp* — *Oct 2023*
-  [🔗 View Credential](https://www.freecodecamp.org/certification/kemda2/scientific-computing-with-python-v7)
+  [🔗 View Credential](https://www.freecodecamp.org/certification/kemda2/data-analysis-with-python-v7)
 
 * **freeCodeCamp Scientific Computing with Python Certification**
   *Issued by freeCodeCamp* — *Oct 2023*
