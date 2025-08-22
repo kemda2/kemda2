@@ -99,6 +99,12 @@
 
 ### 🏅 Certifications
 
+* **Kaggle Intro to Programming Certificate**
+  *Issued by Kaggle* — *Jun 2024*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intro-to-programming)
+
+---
+
 * **Google Data Analytics Professional Certificate**
   *Issued by Coursera / Google* — *Aug 2024*
   [🔗 View Credential](https://www.coursera.org/account/accomplishments/certificate/XXXX)
