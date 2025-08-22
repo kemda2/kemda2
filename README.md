@@ -131,6 +131,10 @@
   *Issued by Kaggle* — *Nov 2023*
   [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/feature-engineering)
 
+* **Kaggle Intermediate Machine Learning Certificate**
+  *Issued by Kaggle* — *Nov 2023*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intermediate-machine-learning)
+
 * **Kaggle Data Cleaning Certificate**
   *Issued by Kaggle* — *Oct 2023*
   [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/data-cleaning)
@@ -142,10 +146,6 @@
 * **Kaggle Data Visualization Certificate**
   *Issued by Kaggle* — *Oct 2023*
   [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/data-visualization)
-
-* **Kaggle Intermediate Machine Learning Certificate**
-  *Issued by Kaggle* — *Nov 2023*
-  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intermediate-machine-learning)
 
 * **Kaggle Pandas Certificate**
   *Issued by Kaggle* — *Oct 2023*
