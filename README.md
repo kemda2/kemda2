@@ -99,9 +99,33 @@
 
 ### 🏅 Certifications
 
-* **Google IT Automation with Python Certification**
+* **Google IT Automation with Python Professional Certification**
   *Issued by Coursera / Google* — *Mar 2024*
   [🔗 View Credential](https://coursera.org/share/72bca91da4ddfd8772f26c9957fe8608)
+
+* **Google Crash Course on Python Certification**
+  *Issued by Coursera / Google* — *Sep 2023*
+  [🔗 View Credential](https://coursera.org/share/a477cabe5f9872f510a14bbc557d35d3)
+
+* **Google Using Python to Interact with the Operating System Certification**
+  *Issued by Coursera / Google* — *Mar 2024*
+  [🔗 View Credential](https://coursera.org/share/2b97dd3d663a66675692665713e92b53)
+
+* **Google Introduction to Git and GitHub Certification**
+  *Issued by Coursera / Google* — *Mar 2024*
+  [🔗 View Credential](https://coursera.org/share/379ab7af9572e96fcd92d4705e058170)
+
+* **Google Troubleshooting and Debugging Techniques Certification**
+  *Issued by Coursera / Google* — *Mar 2024*
+  [🔗 View Credential](https://coursera.org/share/72bca91da4ddfd8772f26c9957fe8608)
+
+* **Google Configuration Management and the Cloud Certification**
+  *Issued by Coursera / Google* — *Mar 2024*
+  [🔗 View Credential](https://coursera.org/share/2188054ccd8ea954fde46db1983959a5)
+
+* **Google IT Automating Real-World Tasks with Python Certification**
+  *Issued by Coursera / Google* — *Mar 2024*
+  [🔗 View Credential](https://coursera.org/share/33d297e392b5252573f4bdf32c0dbaef)
 
 * **freeCodeCamp Data Analysis with Python Certification**
   *Issued by freeCodeCamp* — *Oct 2023*
