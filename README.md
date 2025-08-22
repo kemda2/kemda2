@@ -117,7 +117,7 @@
 
 * **Google Troubleshooting and Debugging Techniques Certification**
   *Issued by Coursera / Google* — *Mar 2024*
-  [🔗 View Credential](https://coursera.org/share/72bca91da4ddfd8772f26c9957fe8608)
+  [🔗 View Credential](https://coursera.org/share/2acb1a0b46bc437a2544382b9379fea8)
 
 * **Google Configuration Management and the Cloud Certification**
   *Issued by Coursera / Google* — *Mar 2024*
