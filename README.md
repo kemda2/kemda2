@@ -99,6 +99,10 @@
 
 ### 🏅 Certifications
 
+* **Google IT Automation with Python Certification**
+  *Issued by Coursera / Google* — *Oct 2023*
+  [🔗 View Credential](https://coursera.org/share/72bca91da4ddfd8772f26c9957fe8608)
+
 * **freeCodeCamp Data Analysis with Python Certification**
   *Issued by freeCodeCamp* — *Oct 2023*
   [🔗 View Credential](https://www.freecodecamp.org/certification/kemda2/data-analysis-with-python-v7)
