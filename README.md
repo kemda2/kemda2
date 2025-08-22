@@ -105,6 +105,10 @@
 
 ---
 
+* **Kaggle Intro to Deep Learning Certificate**
+  *Issued by Kaggle* — *Jul 2024*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intro-to-deep-learning)
+
 * **Kaggle Intermediate Machine Learning Certificate**
   *Issued by Kaggle* — *Jun 2024*
   [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intermediate-machine-learning)
@@ -116,6 +120,38 @@
 * **Kaggle Intro to Programming Certificate**
   *Issued by Kaggle* — *Jun 2024*
   [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intro-to-programming)
+
+* **Kaggle Intro to Game AI and Reinforcement Learning Certificate**
+  *Issued by Kaggle* — *Nov 2023*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intro-to-game-ai-and-reinforcement-learning)
+
+* **Kaggle Machine Learning Explainability Certificate**
+  *Issued by Kaggle* — *Nov 2023*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/machine-learning-explainability)
+
+* **Kaggle Geospatial Analysis Certificate**
+  *Issued by Kaggle* — *Nov 2023*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/geospatial-analysis)
+
+* **Kaggle Computer Vision Certificate**
+  *Issued by Kaggle* — *Nov 2023*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/computer-vision)
+
+* **Kaggle Intro to AI Ethics Certificate**
+  *Issued by Kaggle* — *Nov 2023*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intro-to-ai-ethics)
+
+* **Kaggle Feature Engineering Certificate**
+  *Issued by Kaggle* — *Nov 2023*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/feature-engineering)
+
+* **Kaggle Data Cleaning Certificate**
+  *Issued by Kaggle* — *Oct 2023*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/data-cleaning)
+
+* **Kaggle Time Series Certificate**
+  *Issued by Kaggle* — *Oct 2023*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/time-series)
 
 * **Kaggle Data Visualization Certificate**
   *Issued by Kaggle* — *Oct 2023*
