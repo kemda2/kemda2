@@ -105,6 +105,10 @@
 
 ---
 
+* **Kaggle Pandas Certificate**
+  *Issued by Kaggle* — *Jun 2024*
+  [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/pandas)
+
 * **Kaggle Intro to Machine Learning Certificate**
   *Issued by Kaggle* — *Oct 2023*
   [🔗 View Credential](https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intro-to-machine-learning)
