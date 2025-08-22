@@ -105,7 +105,7 @@
 
 * **freeCodeCamp Scientific Computing with Python Certification**
   *Issued by freeCodeCamp* — *Oct 2023*
-  [🔗 View Credential]([https://www.kaggle.com/learn/certification/kemalmusabdayioglu/intro-to-deep-learning](https://www.freecodecamp.org/certification/kemda2/scientific-computing-with-python-v7))
+  [🔗 View Credential](https://www.freecodecamp.org/certification/kemda2/scientific-computing-with-python-v7)
 
 * **Kaggle Intro to Deep Learning Certificate**
   *Issued by Kaggle* — *Jul 2024*
